@@ -1,0 +1,29 @@
+/*
+html{
+    border: 1px solid red;
+}
+
+div{
+    height: 200px;
+    width: 100px;
+    background-image: url("220px-Star_Wars_Rise_of_Skywalker_Poster_D23.jpg");
+    background-repeat: no-repeat;
+    background-position: 50% 100px;
+    border: 1px solid black;
+    background-attachment: local;
+    overflow: scroll;
+    margin: 20px;
+}
+#par{
+    font-size: 50px;
+}
+.oszt{
+    text-align: center;
+}
+*/
+#par{
+    text-transform: uppercase;
+    text-indent: 100px;
+    letter-spacing: 5px;
+    text-shadow: 3px 3px red;
+}
